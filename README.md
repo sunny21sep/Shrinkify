@@ -9,7 +9,7 @@ Hey there! Welcome to Shrinkify, your friendly URL shortener. Imagine turning th
 
 ## See It in Action
 
-Take it for a spin here: [Live Demo](https://shrinkify.up.railway.app/)
+Take it for a spin here: [Live Demo](https://shrinkify2026.onrender.com/)
 
 ## How to Set It Up Locally
 
